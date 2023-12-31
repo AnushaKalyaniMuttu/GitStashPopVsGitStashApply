@@ -1,0 +1,2 @@
+git stash pop: Applies the most recent changes from the stash and removes them from the stash stack.
+git stash apply: Applies the most recent changes from the stash without removing them, allowing you to apply the same stash multiple times
